@@ -1,0 +1,51 @@
+City1,City2,Distance
+S,A,3
+S,B,2
+S,C ,4
+A,D,1
+A,E,2
+A,F,3
+B,H,1
+B,I,4
+B,C,3
+C ,J,2
+C ,K,3
+C,I,3
+D,L,4
+D,M,3
+E,N,2
+E,O,1
+E,P,2
+E,Z,3
+F,P,5
+F,Q,3
+F,E,2
+H,R,1
+H,J,3
+I,S,2
+I,J,4
+J,T,4
+K,U,4
+K,T,3
+L,V,2
+L,E,4
+M,W,5
+N,X,1
+N,Z,1
+N,V,3
+O,Y,3
+O,Z,2
+P,Z,4
+P,O,2
+Q,A,2
+R,B,3
+T,C ,4
+T,R,2
+U,D,1
+U,Q,2
+V,E,3
+V,W,4
+W,F,2
+X,G,5
+Y,G,4
+Z,G,6
